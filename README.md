@@ -1,4 +1,4 @@
-# Henrique Hasse Weber
+# Hënrique H
 
 ## 🚀 Business & AI Product Builder
 
