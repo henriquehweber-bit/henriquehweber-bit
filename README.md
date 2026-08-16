@@ -2,18 +2,21 @@
 
 ## 🚀 Business & AI Product Builder
 
-Profissional de negócios e tecnologia focado em projetos, produtos digitais, transformação digital, engenharia de dados e Inteligência Artificial.
+Profissional de negócios e tecnologia com experiência em projetos, produtos digitais, transformação digital, dados e Inteligência Artificial.
 
-Meu objetivo é **transformar dores de negócio em soluções digitais**, conectando estratégia, processos, arquitetura de dados e experiência do usuário (UX).
+
+Meu foco é transformar problemas de negócio em soluções digitais, conectando estratégia, processos, dados, tecnologia e pessoas.
 
 ---
 
 ### 💡 O que estou construindo
 
 - **Soluções de IA Generativa** aplicadas a problemas reais de negócio.
-- **Produtos e Protótipos Digitais** focados em automação e produtividade.
-- **Agentes & LLMs** para análise de dados e suporte à tomada de decisão.
+- **Produtos Digitais e Protótipos**.
+- **Experimento com Agentes & LLMs**.
 - **Bases de Conhecimento Estruturadas** para governança de produtos.
+- **Aplicações utilizando dados e IA**
+- **Automação de processos**
 
 ---
 
