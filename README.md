@@ -1,16 +1,42 @@
-## Hi there 👋
+# Henrique Hasse Weber
 
-<!--
-**henriquehweber-bit/henriquehweber-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business & AI Product Builder
 
-Here are some ideas to get you started:
+Profissional de negócios e tecnologia com experiência em projetos, produtos digitais, transformação digital, dados e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é transformar problemas de negócio em soluções digitais, conectando estratégia, processos, dados, tecnologia e pessoas.
+
+### O que estou construindo
+
+- Soluções de IA aplicadas a problemas de negócio
+- Produtos digitais e protótipos
+- Automação de processos
+- Aplicações utilizando dados e IA
+- Experimentos com agentes e LLMs
+
+### Featured Projects
+
+Em construção.
+
+### Core Skills
+
+- Business Analysis
+- Digital Transformation
+- Product & Projects
+- Data & Analytics
+- Generative AI
+- Process Improvement
+- Stakeholder Management
+
+### Technology
+
+- Python
+- Streamlit
+- Git & GitHub
+- APIs
+- LLMs
+- Data Analytics
+
+### Conecte-se comigo
+
+[LinkedIn](www.linkedin.com/in/henrique-h-weber)
