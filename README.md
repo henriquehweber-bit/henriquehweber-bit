@@ -1,6 +1,6 @@
 # Hënrique H
 
-## 🚀 Business & AI Product Builder
+## 🚀 Business, Data & AI Product Builder
 
 Profissional de negócios e tecnologia com experiência em projetos, produtos digitais, transformação digital, dados e Inteligência Artificial.
 
