@@ -1,6 +1,6 @@
-# Hënrique H
+# Hënrique Hasse Web
 
-## 🚀 Business, Data & AI Product Builder
+## Business Analyst | Produtos Digitais | Discovery, Requisitos e Homologação | Projetos em Dados, BI e IA
 
 Profissional de negócios e tecnologia com experiência em projetos, produtos digitais, transformação digital, dados e Inteligência Artificial.
 
