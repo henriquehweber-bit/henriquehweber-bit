@@ -2,60 +2,78 @@
 
 ## Business Analyst | Produtos Digitais | Discovery, Requisitos e Homologação | Projetos em Dados, BI e IA
 
-Profissional de negócios e tecnologia com experiência em projetos, produtos digitais, transformação digital, dados e Inteligência Artificial.
+Atuo na interface entre negócio e tecnologia, contribuindo para a construção e a evolução de produtos digitais a partir do entendimento das necessidades dos usuários e dos objetivos do negócio.
+
+Minha experiência envolve discovery, levantamento e detalhamento de requisitos, histórias de usuário, critérios de aceite, priorização em conjunto com Product Owners e sponsors, acompanhamento funcional e homologação de entregas. Também busco identificar melhorias após a implementação, conectando feedbacks dos usuários a novas oportunidades de evolução.
+
+Tenho atuação em soluções relacionadas a dados, Business Intelligence e Inteligência Artificial, sempre pela perspectiva de negócio, produto e uso da informação. Gestão de projetos é uma capacidade complementar dentro dessa trajetória.
+
+Como contribuo
+
+Entendimento de problemas, necessidades e jornadas dos usuários;
+
+Condução e apoio a atividades de Product Discovery;
+
+Levantamento, análise e documentação de requisitos;
+
+Elaboração de histórias de usuário e critérios de aceite;
+
+Colaboração na priorização de backlog e no detalhamento de soluções;
+
+Alinhamento entre stakeholders, Product Owner e equipe técnica;
+
+Planejamento de cenários de teste e User Acceptance Testing (UAT);
+
+Homologação funcional e acompanhamento de entregas;
+
+Identificação de melhorias após a implementação;
+
+Mapeamento e melhoria de processos de negócio.
+
+Competências e conhecimentos
+
+Análise de Negócios e Produtos Digitais
+Business Analysis Requirements Gathering Product Discovery User Stories Acceptance Criteria Backlog Prioritization UAT Process Mapping Stakeholder Collaboration Agile
+
+Dados e ferramentas
+Power BI — intermediário SQL — básico Python — básico, com apoio de IA generativa Microsoft Excel Jira Miro
+
+Inteligência Artificial aplicada
+Uso de modelos generativos para organização de projetos e contextos, criação de prompts, apoio à análise e prototipação de soluções. Minha atuação é voltada à aplicação da IA em problemas de negócio, sem posicionamento como especialista em engenharia de IA.
+
+Projetos de portfólio e estudos
+
+Os repositórios abaixo representam projetos pessoais, estudos e experimentos. Eles complementam minha experiência profissional, mas não devem ser interpretados como cargos corporativos ou soluções implantadas em produção.
+
+🧠 Segundo Cérebro para Projetos de IA
+
+Projeto de estudo sobre a organização de informações para projetos de Inteligência Artificial, incluindo requisitos, governança e apoio à tomada de decisão. O repositório reúne a proposta do projeto e ideias para desenvolvê-lo.
+
+Foco: organização de contexto, análise de requisitos e governança de IA.
+Status: documentação de projeto de estudo.
+🔗 Acessar repositório
+
+🤖 AMIF — Assistente Financeiro com IA
+
+Documentação de um protótipo de estudo concebido durante um bootcamp de IA generativa e dados. O caso explora uma interface conversacional para apoio à organização e análise de informações financeiras simuladas.
+
+Foco: problema de negócio, experiência do usuário e aplicação de IA generativa.
+Status: documentação de protótipo; código-fonte ainda não publicado neste repositório.
+🔗 Acessar repositório
+
+🎙️ Transcritor de Áudio Multilíngue
+
+Experimento desenvolvido em ambiente Google Colab para explorar o uso do modelo Whisper na conversão de áudio em texto. A proposta considera sua aplicação futura no registro de reuniões, entrevistas e informações que possam apoiar a análise de requisitos.
+
+Foco: automação de transcrição e apoio à documentação.
+Status: experimento de estudo com execução em ambiente externo ao GitHub.
+🔗 Acessar repositório
+
+Sobre minha experiência profissional
+
+Minha trajetória inclui projetos e soluções digitais nos setores de educação, saúde e mineração, com experiências em processos, suprimentos, Business Intelligence, produtos digitais e iniciativas de Inteligência Artificial.
+
+As experiências corporativas, responsabilidades e entregas profissionais estão detalhadas no meu LinkedIn. Materiais proprietários, dados internos e códigos das organizações em que atuei não são publicados neste perfil.
 
 
-Meu foco é transformar problemas de negócio em soluções digitais, conectando estratégia, processos, dados, tecnologia e pessoas.
-
----
-
-### 💡 O que estou construindo
-
-- **Soluções de IA Generativa** aplicadas a problemas reais de negócio.
-- **Produtos Digitais e Protótipos**.
-- **Experimento com Agentes & LLMs**.
-- **Bases de Conhecimento Estruturadas** para governança de produtos.
-- **Aplicações utilizando dados e IA**
-- **Automação de processos**
-
----
-
-### 🌟 Featured Projects
-
-#### 🤖 AMIF — AI Financial Assistant
-*Assistente financeiro interativo focado em análise de dados e inteligência artificial.*
-- **Solução:** Aplicação em Python e Streamlit que utiliza LLMs para processar dados financeiros locais e gerar insights estratégicos de saúde financeira.
-- **Competências:** Python, Streamlit, Ollama / LLMs, Prompt Engineering, UX para IA.
-- 🔗 [Ver Repositório](https://github.com/henriquehweber-bit/Amif_Assistente_Virtual_IA)
-
-#### 🧠 Segundo Cérebro para Gestão de Projetos de IA
-*Base de conhecimento e assistente de contexto para Product Owners e Business Analysts.*
-- **Solução:** Estruturação de um repositório centralizado de conhecimentos sobre projetos de IA utilizando NotebookLM, otimizando o levantamento de requisitos, governança e decisão técnica.
-- **Competências:** AI Knowledge Management, Product Ownership, Prompt Architecture, Governança de IA.
-- 🔗 [Ver Repositório](https://github.com/henriquehweber-bit/SegundoCerebroProjetosIA)
-
-#### 🎙️ Transcritor e Extrator de Insights (Audio to Text)
-*Ferramenta de automação para transcrição de áudio e extração de atas/requisitos.*
-- **Solução:** Pipeline em Python que utiliza o modelo Whisper para converter áudio de reuniões em texto e estruturar requisitos de produto.
-- **Competências:** Python, OpenAI Whisper, Automação de Processos, NLP (Processamento de Linguagem Natural).
-- 🔗 [Ver Repositório](https://github.com/henriquehweber-bit/Transcritor_Voz_Texto_Multi_Lg)
-
----
-
-### 🛠️ Core Competencies & Tech Stack
-
-**Business & Product**
-`Business Analysis` `Digital Transformation` `Product Management` `Agile & Scrum` `Stakeholder Management` `Process Optimization`
-
-**Tech & Artificial Intelligence**
-`Python` `Streamlit` `Git & GitHub` `REST APIs` `OpenAI / Whisper` `Ollama` `NotebookLM` `Data Analytics (Pandas)`
-
----
-
-### 📬 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-h-weber)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquehweber-bit)
-
----
-*“Connecting strategy, data, and technology to build valuable digital products.”*
+Conectando necessidades de negócio, experiência dos usuários e tecnologia para contribuir com produtos digitais mais úteis e evolutivos.
